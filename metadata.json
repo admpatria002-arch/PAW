@@ -1,0 +1,6 @@
+{
+  "name": "CV. Patria Arta Wahana - General Service Pertambangan",
+  "description": "Website Portofolio Resmi CV. Patria Arta Wahana. Penyedia jasa katering pertambangan, laundry profesional, dan jasa kebersihan mess/kantor terpercaya sejak 2010 di Kalimantan Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
